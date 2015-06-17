@@ -1,0 +1,17 @@
+.row, .wd-row {
+  width: 230px;
+}
+
+.weekday {
+  float: left;
+  margin: 6px;
+  font-size: 12px;
+}
+
+.day {
+  float: left;
+  border: 1px solid black;
+  width: 30px;
+  height: 20px;
+  text-align: center;
+}
